@@ -1,1 +1,5 @@
-console.log("helloo")
+console.log("hello")
+
+function generateRandomNumber() {
+  
+}
